@@ -1,5 +1,5 @@
 .img-logo{
-    width: 200px;
+    width: 150px;
     height: 50px;
     object-fit: cover;
     object-position: center;
@@ -29,7 +29,7 @@
     border-radius: 10px;
     padding: 20px;
     color: white ;
-    width: 50vw;
+    width: 25vw;
 }
 /* Imagenes */
 
