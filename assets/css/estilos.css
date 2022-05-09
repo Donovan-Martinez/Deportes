@@ -42,6 +42,17 @@
 }
 
 .videoIframe{
+    width: 50%;
+    height: ;
+}
+
+.btn-group{
     width: ;
     height: ;
+}
+
+.ima-redireccion{
+    
+    object-fit: cover;
+    object-position: center;
 }
